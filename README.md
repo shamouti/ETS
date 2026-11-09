@@ -12,7 +12,10 @@ Application web : **Symfony 7** (API REST + JWT) · **Next.js 14 / React** · **
 
 ## Avant lancemet docker
 
-Copiez le fichier .env.example en .env pour surcharger les valeurs par défaut de docker-compose.yml
+** Copiez le fichier .env.example en .env pour surcharger les valeurs par défaut de docker-compose.yml
+
+** Copiez le fichier ./backend/.env.example en ./backend/.env .
+
 
 ## Lancement (Docker)
 
