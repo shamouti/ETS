@@ -1,0 +1,4 @@
+vendor
+var
+config/jwt/*.pem
+.git
